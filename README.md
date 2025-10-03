@@ -1,6 +1,6 @@
-# jpa-bsen1
+# jpa01-bsen1
 
-Deployed at: http://jpa01-bsen1.dokku-05.cs.ucsb.edu
+Deployed at: https://jpa01-bsen1.dokku-05.cs.ucsb.edu
 
 
 # About this repo
